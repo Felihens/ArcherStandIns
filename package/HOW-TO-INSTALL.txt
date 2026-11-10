@@ -1,0 +1,25 @@
+ARCHER STAND-INS - HOW TO INSTALL
+=================================
+
+Requires BepInEx for Valheim.
+Install this ONLY if you do NOT have Vikings Archer. (With Vikings Archer it does nothing.)
+
+MANUAL
+1. Extract this zip.
+2. Open the "plugins" folder from the zip.
+3. Copy the "ArcherStandIns" folder into:
+       Valheim\BepInEx\plugins\
+
+   Result:
+       Valheim\BepInEx\plugins\ArcherStandIns\ArcherStandIns.dll
+
+4. Launch the game.
+
+R2MODMAN / THUNDERSTORE MOD MANAGER
+Settings > Import local mod > pick this .zip (don't extract it).
+
+UPDATING
+Delete the old ArcherStandIns folder first.
+
+Config: press F1 in game (Configuration Manager) or edit
+Valheim\BepInEx\config\felih.ArcherStandIns.cfg. See README.md.

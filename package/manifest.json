@@ -1,0 +1,9 @@
+{
+  "name": "ArcherStandIns",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/Felihens/ArcherStandIns",
+  "description": "For friends of Vikings Archer players: see their bows, arrows and Multishot/Barrage shots using look-alike game bows and arrows. Uses no files from Vikings Archer.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
