@@ -47,6 +47,8 @@ This is an unofficial companion mod. It is not made by or affiliated with the au
 
 **r2modman / Thunderstore Mod Manager:** to install a downloaded zip, go to Settings → *Import local mod*.
 
+**Nexus Mods / Vortex:** also on [Nexus Mods](https://www.nexusmods.com/valheim/mods/4927).
+
 **Manual:**
 1. Extract the zip.
 2. Copy the `plugins/ArcherStandIns` folder into `Valheim/BepInEx/plugins/`.
@@ -110,6 +112,8 @@ Este é um mod de apoio não oficial. Não é do autor do Vikings Archer nem tem
 ### Instalação
 
 **r2modman / Thunderstore Mod Manager:** para instalar um zip baixado, use Configurações → *Import local mod*.
+
+**Nexus Mods / Vortex:** também está no [Nexus Mods](https://www.nexusmods.com/valheim/mods/4927).
 
 **À mão:**
 1. Extraia o zip.
